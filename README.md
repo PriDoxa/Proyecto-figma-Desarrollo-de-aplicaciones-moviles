@@ -54,5 +54,57 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
 
 ## Link Planificador (Trello): https://trello.com/b/FLZRguda/proyecto-aplicaciones-moviles
 
+# Actualizaciones de la aplicación 
+
+- Se actualizaron los colores del fondo.
+- Se actualizaron el tamaños de las letras.
+- Se pusieron emoticones para saber como esta la persona emocionalmente (alegre, triste, ansioso y enojado).
+- Se quito el recuadro que decia "Tu Nombre".
+-  Ahora son versos de esperanza en vez de Relexiones.
+ <p align="center">
+  <img src = "https://github.com/user-attachments/assets/5c9f74ac-045a-4e95-85bd-88d4c193c4e3" width = "300" alt = "image">
+</p>
+
+  
+
+- Se conecto la api en la aplicación.
+  <p align="center">
+  <img src = "https://github.com/user-attachments/assets/9059ffe0-3834-4a3d-bc0f-58ded125403a" width = "300" alt = "image">
+  </p> &nbsp; &nbsp; &nbsp; &nbsp; <p align="center"> <img src = "https://github.com/user-attachments/assets/e4551284-5fc0-49f6-86f4-a3dacc626084" width = "300" alt = "image">
+  </p>
+
+
+
+  
+- Te da un versiculo segun como te sientas emocionalmente.
+- Se cambio el icono de guardar.
+- Se cambio el "nuevo" por flechas.
+- Ahora no esta el botón de compartir.
+
+  <p align="center">
+  <img src = "https://github.com/user-attachments/assets/40a0e42b-e503-4b02-95a2-42987fd0bb39" width = "300" alt = "image">
+</p>
+
+- Se incluyo el icono del "basurero", para poder eliminar los versiculos almacenados.
+
+  <p align="center">
+  <img src = "https://github.com/user-attachments/assets/19bcd911-db5e-4ca3-b921-38138567dfd4" width = "300" alt = "image">
+</p>
+
+- Se incluyo una ventana donde te dice si de verdad quieres borrar los versículos, y te preguntara "no" "sí, borrar todo"
+
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/ebf7cd44-9fe5-43dc-9098-55c069fd07a6" width = "300" alt = "image">
+</p>
+
+  
+
+
+
+ 
+  
+
+
+
 
 
